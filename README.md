@@ -1,0 +1,2 @@
+# tarkvaraPraktika
+Praktilised ülesanded
