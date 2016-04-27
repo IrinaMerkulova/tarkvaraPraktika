@@ -36,3 +36,4 @@ prototipirovanie
 v agilnih sistemah mozno vozvrasjatsa na kazdij etap
 
 10. Почему важна документация и что нужно документировать?
+trebuetsa dokumentacija razrabotki i dokumentacija produkcii dlja vipolnenija zadac
