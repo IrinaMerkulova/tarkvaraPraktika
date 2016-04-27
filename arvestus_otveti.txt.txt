@@ -21,6 +21,8 @@ udalenie nenuznih vesej v kode
 polzovatel mozet dobavljat izmenenija v programmu
 
 6. Какие преимущества развития в ПО с закрытым кодом?
+polutsaem gotovuju programmu i ot nas nitsego ne trebuetsja
+
 7. Назови различие монументальной и агильной методики развития?.
 8. Перечисли модели системного ПО (4 tk.)
 9. Преимущество агильных систем перед монументальными.
