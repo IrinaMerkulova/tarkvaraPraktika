@@ -24,6 +24,7 @@ polzovatel mozet dobavljat izmenenija v programmu
 polutsaem gotovuju programmu i ot nas nitsego ne trebuetsja
 
 7. Назови различие монументальной и агильной методики развития?.
+v monumentalnoj metodike nelzja vernutsja nazad
 
 8. Перечисли модели системного ПО (4 tk.)
 spiralnaja
@@ -32,4 +33,5 @@ vodopadnaja
 prototipirovanie
 
 9. Преимущество агильных систем перед монументальными.
+
 10. Почему важна документация и что нужно документировать?
